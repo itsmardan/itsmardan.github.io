@@ -12,7 +12,7 @@
 
 ### GitHub Stats
 
-![Dr Wajid Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmardan&show_icons=true&theme=radical)
+[![GitHub commits](https://img.shields.io/github/commit-activity/m/itsmardan/itsmardan.github.io?style=for-the-badge)](https://github.com/itsmardan/itsmardan.github.io/commits)
 
 
 ### Top Languages
