@@ -1,14 +1,14 @@
-# itsmardan.github.io
-# Welcome to [Your Name]'s GitHub Profile!
+# Welcome to Dr Wajid Khan's GitHub Profile!
 
-👋 Hi from [Your Location].
+👋 Hi from London,
 
-### About Me
+### Connect with Me
 
-- 💼 Currently working as [Your Job Title] at [Your Company/Organization].
-- 🌱 I'm passionate about [Your Interests or Specializations].
-- 📚 I hold a [Your Degree] in [Your Field] from [Your University].
-- 💡 I love exploring new technologies and solving complex problems.
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- ❓ Ask a question: Do you need a reliable Software Partner from London, UK? Visit [Caspia](https://caspia.co.uk)
+- 💼 Explore [bengaged.io](https://bengaged.io) for Digital Marketing solutions for startups.
+- 🤖 Check out [airoadmap.org](https://airoadmap.org) for The AI Assembly Line.
+- 📝 Read my thoughts and musings on my [personal blog](https://www.wajidkhan.info/).
 
 ### GitHub Stats
 
@@ -18,8 +18,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
-### Connect with Me
 
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/wajidkhanuk/)
-- 🌐 Visit my [personal website](https://wajidkhan.info/)
 
