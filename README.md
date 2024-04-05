@@ -10,14 +10,6 @@
 - 🤖 Check out [airoadmap.org](https://airoadmap.org) for The AI Assembly Line.
 - 📝 Read my thoughts and musings on my [personal blog](https://www.wajidkhan.info/).
 
-### GitHub Stats
-
-[![GitHub commits](https://img.shields.io/github/commit-activity/m/itsmardan/itsmardan.github.io?style=for-the-badge)](https://github.com/itsmardan/itsmardan.github.io/commits)
-
-
-### Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmardan&layout=compact)
 
 
 
