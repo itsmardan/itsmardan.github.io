@@ -12,7 +12,8 @@
 
 ### GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmardan&show_icons=true&theme=radical)
+![Dr Wajid Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmardan&show_icons=true&theme=radical)
+
 
 ### Top Languages
 
